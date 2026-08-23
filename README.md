@@ -1,6 +1,10 @@
 # EOA Program, Part 0: The Engineering of Alphabets as an Open Frontier
 
-This repository contains the PDF and supplementary materials for Part 0 of the EOA Program.
+## PDF
+
+The paper is available as a PDF:
+
+- [eoa-program-part0.pdf](eoa-program-part0.pdf)
 
 ## Citation
 
